@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPopUp</string>
+    <string name="pop_up">Pop Up</string>
+    <string name="write_something">Write Something</string>
+</resources>
